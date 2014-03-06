@@ -1,0 +1,14 @@
+{
+	"name": "Ddall/GooglePlacesPHP",
+	"type": "library",
+	"description": "Simple API for Places and Geocoder",
+	"keywords": ["places"],
+	"license": "GNU",
+	"require": {
+		"php": ">=5.2.1"
+	},
+	"autoload": {
+		"psr-0": { "Ddall\\GooglePlaces": "" }
+	},
+	"target-dir": "Ddall/GooglePlaces"
+}
