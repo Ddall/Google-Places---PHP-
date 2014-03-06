@@ -1,5 +1,5 @@
 {
-	"name": "Ddall/GooglePlacesPHP",
+	"name": "ddall/googleplacesphp",
 	"type": "library",
 	"description": "Simple API for Places and Geocoder",
 	"keywords": ["places"],
